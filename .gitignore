@@ -1,0 +1,14 @@
+.sencha/
+.DS_Store
+bootstrap.js
+bootstrap.json
+
+cordova/
+build/
+node_modules/
+
+resources/
+
+touch/
+workspace.json
+build.xml
