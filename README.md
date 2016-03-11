@@ -1,2 +1,2 @@
 # HelloWorld-Sencha
-HelloWorld
+This is a HelloWorld app using sencha touch
